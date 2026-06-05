@@ -1,1 +1,1 @@
-RepoA version
+resolved version
