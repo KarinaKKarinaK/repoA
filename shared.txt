@@ -1,1 +1,1 @@
-RepoB version
+resolved version
